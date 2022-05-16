@@ -1,4 +1,6 @@
 # Reminder
+Introduction to Containers : https://container.training/intro-selfpaced.yml.html#1
+
  
  Docker Command
  
