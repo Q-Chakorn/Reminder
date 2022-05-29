@@ -20,3 +20,6 @@ Introduction to Containers : https://container.training/intro-selfpaced.yml.html
 - docker-compose up -d <start container จากไฟล์>
 - docker-compose down <down container>
 - docker-compose down --rmi all <down container และ ลบ all image>
+
+--env file
+- COMPOSE_PROJECT_NAME=<name> = ไม่ต่องใส่ container name ใน docker-compose.yaml 
