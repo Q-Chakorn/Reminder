@@ -6,6 +6,8 @@ Introduction to Containers : https://container.training/intro-selfpaced.yml.html
  
 - docker build <สร้าง contrainer>
 - docker run <run container>
+- docker run -it -d <image>:tag
+- docker exec -it <container-name , container-id> bash sh
 
 - docker images <ดู image>
 - docker rmi <image_id> <ลบ image>
